@@ -33,15 +33,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |Project Name | GitHub Link |
 |-----------------------------------------------|----------------------------|
 | 1. Set Up a Home Lab | [![Project-1](https://img.shields.io/badge/-Project%201-blue?&style=for-the-badge)](https://github.com/users/SoumyaGundu/projects/3?pane=issue&itemId=98287315)|
-| 2. Build and Configure a Firewalls |  |
-| 3. Network Traffic Analysis with Wireshark |  |
-| 4. Implement an IDS/IPS |  |
-| 5. VPN Configuration and Management |  |
-| 6. Secure Network Design |  |
-| 7. Wireless Network Security |  |
-| 8. Conduct a Secure Code Review |  |
-| 9. Web Application Security Testing |  |
-| 10. Develop a Secure Web Application |  |
+| 2. Build and Configure a Firewalls |  [![Project-2](https://img.shields.io/badge/-Project%202-blue?&style=for-the-badge)](https://github.com/users/SoumyaGundu/projects/3/views/1)|
+| 3. Network Traffic Analysis with Wireshark | [![Project-3](https://img.shields.io/badge/-Project%203-blue?&style=for-the-badge)](https://github.com/users/SoumyaGundu/projects/3/views/1?pane=issue&itemId=98298640) |
+| 4. Implement an IDS/IPS | [![Project-4](https://img.shields.io/badge/-Project%204-blue?&style=for-the-badge)](https://github.com/users/SoumyaGundu/projects/3/views/1?pane=issue&itemId=98304775) |
+| 5. VPN Configuration and Management | [![Project-5](https://img.shields.io/badge/-Project%205-blue?&style=for-the-badge)](https://github.com/users/SoumyaGundu/projects/3/views/1?pane=issue&itemId=98642485) |
+| 6. Secure Network Design | [![Project-6](https://img.shields.io/badge/-Project%206-blue?&style=for-the-badge)](https://github.com/users/SoumyaGundu/projects/3/views/1?pane=issue&itemId=98837527) |
+| 7. Wireless Network Security | ![Project-7](https://img.shields.io/badge/-Project%207-blue?&style=for-the-badge) |
+| 8. Conduct a Secure Code Review | ![Project-8](https://img.shields.io/badge/-Project%208-blue?&style=for-the-badge) |
+| 9. Web Application Security Testing | ![Project-9](https://img.shields.io/badge/-Project%209-blue?&style=for-the-badge) |
+| 10. Develop a Secure Web Application | ![Project-10](https://img.shields.io/badge/-Project%210-blue?&style=for-the-badge) |
 
 
 
