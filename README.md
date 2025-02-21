@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | 10.Secure Development, Web Security Best Practices | Flask/Django, OWASP Guidelines |
 
 ## Certifications
-[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.credly.com/badges/549e29f5-47b8-43f7-868e-bd0ca004fdf4)
+[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.credly.com/badges/549e29f5-47b8-43f7-868e-bd0ca004fdf4/public_url)
 
 
 ## Projects
