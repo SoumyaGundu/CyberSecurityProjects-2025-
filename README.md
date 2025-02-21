@@ -1,57 +1,45 @@
 # Hello, I'm Soumya Gundu😉
 <a href="https://www.linkedin.com/in/soumyagundu07/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Post graduate student with a profound interest in Cyber Security and a dedication to solving complex problems.
+Welcome to my Cybersecurity Projects Portfolio, where I showcase hands-on projects covering Network Security, Ethical Hacking, Incident Response, Application Security, Cloud Security, and more. These projects reflect my practical skills, problem-solving approach, and ability to secure systems in real-world environments.
+
+As a cybersecurity enthusiast, my goal is to gain hands-on experience, contribute to the security community, and continuously upskill. This repository serves as a public showcase of my technical abilities, demonstrating my expertise in threat detection, penetration testing, vulnerability assessment, and security engineering.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to enter this field, specifically aiming for Security Engineer roles.
 
-## Skills
-]
+## Core Competencies
 
-| Skill                                         | Associated Project         |
+|SKILLS | TOOLS |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+| 1. Virtualization, OS Installation, Networking Basics | VMware, VirtualBox, Kali Linux, Windows Server |
+| 2. Firewall Configuration, Network Security Policies | pfSense, iptables, Windows Firewall |
+| 3. Packet Analysis, Network Monitoring, Protocol Analysis | Wireshark, tcpdump |
+| 4. Intrusion Detection & Prevention, Network Security | Snort, Suricata, Zeek |
+| 5. Secure Remote Access, VPN Setup | OpenVPN, WireGuard, Cisco AnyConnect |
+| 6. Network Segmentation, Security Best Practices | Cisco Packet Tracer, GNS3 |
+| 7. Wi-Fi Encryption, Secure Configuration | Aircrack-ng, Wireshark, Kismet |
+| 8. Secure Coding, Code Analysis | SonarQube, Checkmarx, GitHub CodeQL |
+| 9. Web App Vulnerability Analysis, Pen Testing | Burp Suite, OWASP ZAP |
+| 10.Secure Development, Web Security Best Practices | Flask/Django, OWASP Guidelines |
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.credly.com/badges/549e29f5-47b8-43f7-868e-bd0ca004fdf4)
+
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+|Project Name | GitHub Link |
+|-----------------------------------------------|----------------------------|
+| 1. Set Up a Home Lab |  |
+| 2. Build and Configure a Firewalls |  |
+| 3. Network Traffic Analysis with Wireshark |  |
+| 4. Implement an IDS/IPS |  |
+| 5. VPN Configuration and Management |  |
+| 6. Secure Network Design |  |
+| 7. Wireless Network Security |  |
+| 8. Conduct a Secure Code Review |  |
+| 9. Web Application Security Testing |  |
+| 10.Develop a Secure Web Application |  |
+
+
