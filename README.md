@@ -9,6 +9,10 @@ As a cybersecurity enthusiast, my goal is to gain hands-on experience, contribut
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to enter this field, specifically aiming for Security Engineer roles.
 
+
+## Certifications
+[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.credly.com/badges/549e29f5-47b8-43f7-868e-bd0ca004fdf4/public_url)
+
 ## Core Competencies
 
 |SKILLS | TOOLS |
@@ -24,9 +28,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | 9. Web App Vulnerability Analysis, Pen Testing | Burp Suite, OWASP ZAP |
 | 10.Secure Development, Web Security Best Practices | Flask/Django, OWASP Guidelines |
 
-## Certifications
-[<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://www.credly.com/badges/549e29f5-47b8-43f7-868e-bd0ca004fdf4/public_url)
-
 
 ## Projects
 |Project Name | GitHub Link |
@@ -40,6 +41,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | 7. Wireless Network Security |  |
 | 8. Conduct a Secure Code Review |  |
 | 9. Web Application Security Testing |  |
-| 10.Develop a Secure Web Application |  |
+| 10. Develop a Secure Web Application |  |
+
+
+
+
 
 
