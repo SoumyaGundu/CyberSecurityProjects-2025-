@@ -32,7 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 |Project Name | GitHub Link |
 |-----------------------------------------------|----------------------------|
-| 1. Set Up a Home Lab | [![Project-1](https://img.shields.io/badge/-Project%201-blue?&style=for-the-badge)](https://www.credly.com/badges/549e29f5-47b8-43f7-868e-bd0ca004fdf4/public_url)|
+| 1. Set Up a Home Lab | [![Project-1](https://img.shields.io/badge/-Project%201-blue?&style=for-the-badge)](https://github.com/users/SoumyaGundu/projects/3?pane=issue&itemId=98287315)|
 | 2. Build and Configure a Firewalls |  |
 | 3. Network Traffic Analysis with Wireshark |  |
 | 4. Implement an IDS/IPS |  |
